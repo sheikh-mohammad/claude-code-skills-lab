@@ -16,6 +16,7 @@ A collection of hands-on skills for students to explore and practice when learni
 | **pdf** | PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms |
 | **pptx** | PowerPoint presentation creation, editing, and analysis including layouts, speaker notes, comments, and visual design |
 | **skill-creator** | Guide for creating effective skills that extend Claude's capabilities with specialized knowledge, workflows, or tool integrations |
+| **skill-creator-enhanced** | Creates production-grade, reusable skills with embedded domain expertise. Guides creation of new skills, improves existing ones, and provides patterns for 5 skill types (Builder, Guide, Automation, Analyzer, Validator) |
 | **skill-validator** | Validate any skill against production-level quality criteria. 7 weighted criteria, 0-100 scoring, actionable feedback with prioritized recommendations |
 | **theme-factory** | Toolkit for styling artifacts (slides, docs, reports, HTML) with 10 pre-set professional themes or custom on-the-fly theme generation |
 | **xlsx** | Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization |
